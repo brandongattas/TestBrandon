@@ -19,5 +19,9 @@ public class test {
 	//testing conflict
 	
 
+	
+	public static void sum() {
+		System.out.println("Test 2 Sum");
+	}
 
 }

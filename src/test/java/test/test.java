@@ -7,5 +7,9 @@ public class test {
 	}
 	
 	//testing conflict, gotten while pushing without stagging-pulling.
+	
+	public static void message() {
+		System.out.println("Hi");
+	}
 
 }

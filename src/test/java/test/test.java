@@ -18,6 +18,15 @@ public class test {
 	}
 	//testing conflict
 	
+	public static void testB() {
+		System.out.println("Test 2");
+	}
 
+	
+	public static void sum() {
+		System.out.println("Test 2 Sum");
+	}
+	
+	//adding stages and pushing.
 
 }

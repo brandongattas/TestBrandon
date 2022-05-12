@@ -6,6 +6,7 @@ public class test {
 		System.out.println("test");
 	}
 	
+	
 	//testing conflict, gotten while pushing without stagging-pulling.
 	
 	public static void message() {
@@ -15,5 +16,8 @@ public class test {
 	public static void message2() {
 		System.out.println("How are you?");
 	}
+	//testing conflict
+	
+
 
 }

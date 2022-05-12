@@ -11,5 +11,9 @@ public class test {
 	public static void message() {
 		System.out.println("Hi");
 	}
+	
+	public static void message2() {
+		System.out.println("How are you?");
+	}
 
 }

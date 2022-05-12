@@ -7,5 +7,9 @@ public class test {
 	}
 	
 	//testing conflict
+	
+	public static void messageOrg() {
+		System.out.println("Hi Original");
+	}
 
 }
